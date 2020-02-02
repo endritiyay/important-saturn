@@ -1,9 +1,9 @@
 {
   "title": "Stackbit Exto Theme",
   "color_scheme": "dark",
-  "accent_color": "pink",
+  "accent_color": "green",
   "header": {
-    "title": "Exto",
+    "title": "Harpa Education",
     "has_nav": true
   },
   "footer": {

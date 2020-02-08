@@ -76,10 +76,11 @@ sections:
     url: blog/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Na Kontaktoni
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Na kontaktoni apo aplikoni me infot tuaja dhe kursin/trajnimin  që doni
+    të ndjekni
 menus:
   main:
     title: Home

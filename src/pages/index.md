@@ -21,15 +21,17 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Çka ofrojmë ne?
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Shërbimet më specifike për metodat tuaja
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+  - title: Kurse të gjuhëve
+    content: Ne ofrojmë kurse të gjuhës angleze dhe gjermane për të gjitha moshat
+      dhe për të gjitha nivelet. Qëllimet tona sa i përket gjuhës gjermane janë që
+      nxënësat tanë të çertifikohen nga _Goethe_-Zentrum në _Prishtinë,_ ndërsa sa
+      i përket gjuhës angleze, ofrojmë përgatitje intensive për  çertifikim në testin
+      TOEFL.
   - title: Service Title
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt

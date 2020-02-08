@@ -39,9 +39,9 @@ sections:
       Per femijet sot, teknologjia nuk eshte ndonje risi. Ajo eshte prezente ne cdo sfere te jetes se tyre, prandaj perdorimi nuk eshte sfide por eshte nje aftesi qe per ta eshte shume e natyrshme.
 
       Per kete gjenerate teknologjike, eshte esenciale qe ata te mesohen se si funksionon teknologjia nga brendesia dhe te mesohen qe te kontrollojne ate.
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: CV Profesionale
+    content: Ne krijojmë CV dhe letra motivuese që sjellin rezultatet e pritshme,
+      e gjitha kjo përderisa puna kryhet me rregull dhe në kohë.
   - title: Service title
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non

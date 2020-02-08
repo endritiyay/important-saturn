@@ -5,16 +5,12 @@
   "header": {
     "title": "Harpa Education",
     "has_nav": true,
-    "logo_img": "/images/logo-bigger.png"
+    "logo_img": "/images/logo-bigger-1.png"
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; Harpa Solutions. Të gjitha drejtat e rezervuara.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ],
     "has_social": true
   }

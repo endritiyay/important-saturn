@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "faceboock",
+      "icon": "fa-facebook",
+      "url": "www.facebook.com/harpaeducation"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -11,18 +16,6 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/harpa.education"
-    },
-    {
-      "type": "dribbble",
-      "title": "Dribbble",
-      "icon": "fa-dribbble",
-      "url": "https://dribbble.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
     }
   ]
 }

@@ -50,12 +50,12 @@ sections:
       marka të ndryshme në mënyrë sa më efektive në internet."
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testimonials
+  title: TË TJERËT PËR NE
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: opinione të ndryshme nga studentët tanë
   testimonialslist:
-  - author: John Doe
+  - author: Arlind Ramadani
     avatar: images/john_doe.jpg
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.

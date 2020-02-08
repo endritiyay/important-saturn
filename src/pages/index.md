@@ -42,10 +42,12 @@ sections:
   - title: CV Profesionale
     content: Ne krijojmë CV dhe letra motivuese që sjellin rezultatet e pritshme,
       e gjitha kjo përderisa puna kryhet me rregull dhe në kohë.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Trajnime për Social Media
+    content: "###### Trajnimi për Rrjete Sociale do t’ju japë një kuptim profesional
+      të taktikave, strategjive dhe praktikave më të mira, të cilat aktualisht po
+      përdoren globalisht.  \nPas trajnimit ju do të mësoni se si të menaxhoni rrjetet
+      sociale që ju nevojiten për ta bërë një biznes të funksionojë dhe të promovoni
+      marka të ndryshme në mënyrë sa më efektive në internet."
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials

@@ -69,7 +69,7 @@ sections:
   title: Postimet e fundit
   section_id: latest-posts
   component: PostsBlock
-  subtitle: të reja dhe informacione të ndryshme
+  subtitle: Të reja dhe informacione të ndryshme
   num_posts_displayed: 2
   actions:
   - label: Lexoni Blogun

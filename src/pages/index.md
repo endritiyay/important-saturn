@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Shtëpia
 sections:
 - type: heroblock
   template: heroblock
@@ -11,10 +11,10 @@ sections:
     ata që kanë më shumë nevojë për to.
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Grupet e fundit
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Eksploroni grupet dhe lëndët të cilat doni t'i ndjekni
   layout_style: mosaic
   num_projects_displayed: 6
   view_all_text: View All

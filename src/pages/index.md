@@ -32,10 +32,13 @@ sections:
       nxënësat tanë të çertifikohen nga _Goethe_-Zentrum në _Prishtinë,_ ndërsa sa
       i përket gjuhës angleze, ofrojmë përgatitje intensive për  çertifikim në testin
       TOEFL.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: Kodimi për fëmijë
+    content: |-
+      Ne ofrojmë kurse për femije rreth teknologjisë informative &  Programim per femije.
+
+      Per femijet sot, teknologjia nuk eshte ndonje risi. Ajo eshte prezente ne cdo sfere te jetes se tyre, prandaj perdorimi nuk eshte sfide por eshte nje aftesi qe per ta eshte shume e natyrshme.
+
+      Per kete gjenerate teknologjike, eshte esenciale qe ata te mesohen se si funksionon teknologjia nga brendesia dhe te mesohen qe te kontrollojne ate.
   - title: Service title
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.

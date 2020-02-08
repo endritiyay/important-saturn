@@ -66,13 +66,13 @@ sections:
       vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Postimet e fundit
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: të reja dhe informacione të ndryshme
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: Lexoni Blogun
     url: blog/index.html
 - type: contactblock
   template: contactblock

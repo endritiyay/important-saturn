@@ -1,5 +1,5 @@
 ---
-title: Shtëpia
+title: Qendra e Kurseve
 sections:
 - type: heroblock
   template: heroblock

@@ -62,8 +62,8 @@ sections:
       das Beste für mich geboten hat.
   - author: Trim Sahiti
     avatar: "/images/IMG_3044.jpg"
-    content: Të jesh i sukseshëm në ditët e sotme, me  domosdoshmëri duhet të njohësh edhe gjuhë të huaja. 
-      E vendi i duhur per t'i mësuar ato është "Harpa Education".
+    content: Të jesh i sukseshëm në ditët e sotme me  domosdoshmëri  duhet të njohësh
+      edhe gjuhë të huaja. E vendi i duhur per t'i mësuar ato  është "Harpa Education".
 - type: postsblock
   template: postsblock
   title: Postimet e fundit

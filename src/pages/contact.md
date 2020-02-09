@@ -1,10 +1,16 @@
 ---
-title: Contact
+title: Kontakt
 menus:
   main:
     title: Kontakt
     weight: 5
 template: contact
----
+subtitle: ''
+img_path: "/images/map.png"
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+---
+Metodat tona unike të mësimdhënies, sistemi ynë më i ri multimedial dhe interaktiv janë në dispozicionin tuaj.
+
+Për më shumë informata mund të na kontaktoni në:  
+ ☎️ Tel & Viber +383 45 613 794  
+ 📍 Rr. Ramadan Rexhepi, afër Spitalit Rajonal (Ndërtesa e klinikës Nesa Dental), Ferizaj.

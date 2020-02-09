@@ -56,14 +56,10 @@ sections:
   subtitle: opinione të ndryshme nga studentët tanë
   testimonialslist:
   - author: Albina Sahiti
-    avatar: "/images/DSC_0707.png"
-    content: Për mua si studente  që synon te ketë një karrierë ndërkombëtare, ka shumë rëndësi që të bëj zgjedhjet
-      e duhura. Ndaj jam shumë falenderuese dhe mirënjohëse që "Harpa Education" më ofroi
-      më të mirën për mua.   // For me as a student who aims to have an international
-      career, it is very important to make the right choices. So I am very  thankful
-      and grateful that "Harpa Education" offered me the best choices. //  Für mich als
-      Student, der eine internationale Karriere anstrebt, ist es sehr wichtig, die richtigen Entscheidungen zu treffen. Ich
-      bin sehr dankbar, dass "Harpa Education" mir das Beste für mich geboten hat.
+    avatar: "/images/DSC_0707-1.png"
+    content: Für mich als Student, der eine internationale Karriere anstrebt, ist es sehr wichtig,
+      die richtigen Entscheidungen zu treffen. Ich bin sehr dankbar, dass "Harpa Education" mir
+      das Beste für mich geboten hat.
   - author: Trim Sahiti
     avatar: "/images/IMG_3044.jpg"
     content: Të jesh i sukseshëm në ditët e sotme me  domosdoshmëri duhet të njohësh edhe gjuhë të huaja. 

@@ -1,6 +1,6 @@
 ---
-title: Project Title 1
-subtitle: 'Gjuhë Gjermane '
+title: Gjuhë Gjermane
+subtitle: Niveli A1
 date: 2019-05-10
 thumb_img_path: "/images/gjuhe-gjermane-arbenita.jpg"
 content_img_path: "/images/gjuhe-gjermane-arbenita.jpg"

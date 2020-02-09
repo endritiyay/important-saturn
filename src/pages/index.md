@@ -83,7 +83,7 @@ sections:
     të ndjekni
 menus:
   main:
-    title: Home
+    title: Shtëpia
     weight: 1
 template: home
 

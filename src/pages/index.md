@@ -67,10 +67,7 @@ sections:
   - author: Trim Sahiti
     avatar: "/images/IMG_3044.jpg"
     content: Të jesh i sukseshëm në ditët e sotme me  domosdoshmëri duhet të njohësh edhe gjuhë të huaja. 
-      E vendi i duhur per t'i mësuar ato është "Harpa Education". //To be successful
-      nowadays you must necessarily know foreign languages as well, and the right
-      place to learn them is "Harpa Education". // Um heutzutage erfolgreich zu sein, müssen Sie auch Fremdsprachen beherrschen. Und
-      der richtige Ort, um sie zu unterrichten, ist  "Harpa education".
+      E vendi i duhur per t'i mësuar ato është "Harpa Education".
 - type: postsblock
   template: postsblock
   title: Postimet e fundit

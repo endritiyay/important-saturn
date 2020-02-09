@@ -4,7 +4,7 @@ subtitle: ''
 img_path: "/images/map.png"
 menus:
   main:
-    title: About
+    title: Rreth Nesh
     weight: 4
 template: page
 

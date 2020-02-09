@@ -55,10 +55,15 @@ sections:
   component: TestimonialsBlock
   subtitle: opinione të ndryshme nga studentët tanë
   testimonialslist:
-  - author: Arlind Ramadani
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Albina Sahiti
+    avatar: "/images/DSC_0707.png"
+    content: Për mua si studente  që synon te ketë një karrierë ndërkombëtare, ka shumë rëndësi që të bëj zgjedhjet
+      e duhura. Ndaj jam shumë falenderuese dhe mirënjohëse që "Harpa Education" më ofroi
+      më të mirën për mua.   // For me as a student who aims to have an international
+      career, it is very important to make the right choices. So I am very  thankful
+      and grateful that "Harpa Education" offered me the best choices. //  Für mich als
+      Student, der eine internationale Karriere anstrebt, ist es sehr wichtig, die richtigen Entscheidungen zu treffen. Ich
+      bin sehr dankbar, dass "Harpa Education" mir das Beste für mich geboten hat.
   - author: Albina Sahiti
     avatar: images/jane_roe.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,

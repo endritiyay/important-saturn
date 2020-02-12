@@ -2,8 +2,8 @@
 title: Gjuhë Gjermane
 subtitle: Niveli A1
 date: 2019-04-30
-thumb_img_path: "/images/Gjuhe-gjermani-niveli-a1-prej-5.jpg"
-content_img_path: "/images/Gjuhe-gjermani-niveli-a1-prej-5.jpg"
+thumb_img_path: "/images/Gjuhe-gjermani-niveli-a1-prej-5-1.jpg"
+content_img_path: "/images/Gjuhe-gjermani-niveli-a1-prej-5-1.jpg"
 template: project
 
 ---

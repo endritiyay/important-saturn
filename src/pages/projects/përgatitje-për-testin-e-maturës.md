@@ -1,6 +1,6 @@
 ---
 template: project
-title: Përgatitje për testin e maturës
+title: Përgatitje për testin e arritshmërisë
 subtitle: 1 javë ushtrime falas
 date: 2020-02-14T23:00:00Z
 thumb_img_path: "/images/TESTI-I-ARRITSHMERISE-1-JAVE-FALAS-POST.jpg"

@@ -2,8 +2,8 @@
 title: Gjuhë Gjermane
 subtitle: Niveli A1
 date: 2019-05-10
-thumb_img_path: "/images/grupi-new.jpg"
-content_img_path: "/images/grupi-new-1.jpg"
+thumb_img_path: "/images/gjuhe-gjermane-template-arbenita-final.jpg"
+content_img_path: "/images/gjuhe-gjermane-template-arbenita-final-1.jpg"
 template: project
 
 ---
